@@ -1,0 +1,126 @@
+[
+{
+"StateOrUT": "Andaman and Nicobar Islands",
+"Official_Portal": "https://dhs.andaman.gov.in/"
+},
+{
+"StateOrUT": "Andhra Pradesh",
+"Official_Portal": "http://dashboard.covid19.ap.gov.in/ims/hospbed_reports/"
+},
+{
+"StateOrUT": "Arunachal Pradesh",
+"Official_Portal": "https://twitter.com/MyGovArunachal"
+},
+{
+"StateOrUT": "Assam",
+"Official_Portal": "https://nhm.assam.gov.in/portlet-innerpage/dedicated-covid-hospitals"
+},
+{
+"StateOrUT": "Bihar",
+"Official_Portal": "http://covid19health.bihar.gov.in/dailydashboard/bedsoccupied"
+},
+{
+"StateOrUT": "Chandigarh",
+"Official_Portal": "http://chdcovid19.in/chdcovidbed19/"
+},
+{
+"StateOrUT": "Chhattisgarh",
+"Official_Portal": "https://cg.nic.in/health/covid19/RTPBedAvailable.aspx"
+},
+{
+"StateOrUT": "Dadra and Nagar Haveli and Daman and Diu",
+"Official_Portal": "https://covidfacility.dddgov.in/"
+},
+{
+"StateOrUT": "Delhi",
+"Official_Portal": "https://coronabeds.jantasamvad.org/"
+},
+{
+"StateOrUT": "Goa",
+"Official_Portal": "https://goaonline.gov.in/beds"
+},
+{
+"StateOrUT": "Gujarat",
+"Official_Portal": "https://gujcovid19.gujarat.gov.in/"
+},
+{
+"StateOrUT": "Haryana",
+"Official_Portal": "https://coronaharyana.in/"
+},
+{
+"StateOrUT": "Himachal Pradesh",
+"Official_Portal": "http://covidcapacity.hp.gov.in/index.php"
+},
+{
+"StateOrUT": "Jammu and Kashmir",
+"Official_Portal": "https://covidrelief.jk.gov.in/Beds"
+},
+{
+"StateOrUT": "Jharkhand",
+"Official_Portal": "https://www.amritvahini.in/DashBoardNHM.aspx"
+},
+{
+"StateOrUT": "Karnataka",
+"Official_Portal": "http://bbmpgov.com/chbms/"
+},
+{
+"StateOrUT": "Kerala",
+"Official_Portal": "https://covid19jagratha.kerala.nic.in/home/addHospitalDashBoard"
+},
+{
+"StateOrUT": "Leh",
+"Official_Portal": "https://leh.nic.in/covid-info/"
+},
+{
+"StateOrUT": "Kargil",
+"Official_Portal": "https://kargil.nic.in/covid-info/"
+},
+{
+"StateOrUT": "Madhya Pradesh",
+"Official_Portal": "http://sarthak.nhmmp.gov.in/covid/facility-bed-occupancy-dashboard/"
+},
+{
+"StateOrUT": "Maharashtra",
+"Official_Portal": "https://arogya.maharashtra.gov.in/1177/Dedicated-COVID-Facilities-Status"
+},
+{
+"StateOrUT": "Meghalaya",
+"Official_Portal": "https://meghealth.in/MeghCare.html"
+},
+{
+"StateOrUT": "Odisha",
+"Official_Portal": "https://statedashboard.odisha.gov.in/"
+},
+{
+"StateOrUT": "Puducherry",
+"Official_Portal": "https://covid19dashboard.py.gov.in/BedAvailabilityDetails"
+},
+{
+"StateOrUT": "Rajasthan",
+"Official_Portal": "https://covidinfo.rajasthan.gov.in/Covid-19hospital-wisebedposition-wholeRajasthan.aspx"
+},
+{
+"StateOrUT": "Tamil Nadu",
+"Official_Portal": "https://stopcorona.tn.gov.in/beds.php"
+},
+{
+"StateOrUT": "Telangana",
+"Official_Portal": "http://164.100.112.24/SpringMVC/Hospital_Beds_Statistic_Bulletin_citizen.htm"
+},
+{
+"StateOrUT": "Tripura",
+"Official_Portal": "https://covid19.tripura.gov.in/bed_availability_status.html"
+},
+{
+"StateOrUT": "Uttar Pradesh",
+"Official_Portal": "https://beds.dgmhup-covid19.in/EN/covid19bedtrack"
+},
+{
+"StateOrUT": "Uttarakhand",
+"Official_Portal": "https://covid19.uk.gov.in/bedssummary.aspx"
+},
+{
+"StateOrUT": "West Bengal",
+"Official_Portal": "https://excise.wb.gov.in/chms/Portal_Default.aspx"
+}
+]

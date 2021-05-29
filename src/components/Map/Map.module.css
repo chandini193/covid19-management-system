@@ -1,0 +1,29 @@
+.markerBtn {
+    background: none;
+    border: none;
+}
+
+.popup {
+    padding: 15px;
+}
+
+.confirmed {
+    background: rgb(0, 0, 255, 0.5);
+}
+
+.recovered {
+    background: #afd275;
+}
+
+.deaths {
+    background: rgb(255, 0, 0, 0.5);
+}
+
+.active {
+    background: rgb(188, 143, 143);
+}
+
+.heading {
+    margin-top: 5px;
+    font-size: 1.1rem;
+}

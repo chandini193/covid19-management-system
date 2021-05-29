@@ -1,0 +1,40 @@
+.SideNav {
+    position: fixed;
+    overflow: auto;
+    height: 100vh;
+    width: 250px;
+    background-color: #AFD275;
+}
+
+.sideNavBar {
+    padding: 0 !important;
+    margin: 0 !important;
+}
+
+.navBrand {
+    margin: 15px;
+    font-size: 1.5rem !important;
+}
+
+.navLink {
+    width: 100% !important;
+    height: 50px !important;
+    display: flex !important;
+    flex-direction: row !important;
+    align-items: center !important;
+    font-size: 1.1rem;
+    border: solid black 2px;
+    margin-top: 9px;
+}
+
+.navIcon {
+    flex: 20% !important;
+    width: 2rem;
+    height: 2rem;
+    display: grid !important;
+    place-items: center !important;
+}
+
+.navText {
+    flex: 80% !important;
+}

@@ -1,25 +1,31 @@
-import logo from './logo.svg';
-import './App.css';
+import { Component } from 'react';
+import {BrowserRouter as Router, Switch, Route} from 'react-router-dom';
+import SideNav from './components/SideNav/SideNav';
+import WorldWideLiveUpdates from './WorldWideLiveUpdates/WorldWideLiveUpdates'
+import BedsAvailability from './BedsAvailability/BedsAvailability';
+import HelpLineNumbers from './HelpLineNumbers/HelpLineNumbers';
+import IndiaWideLiveUpdates from './IndiaWideLiveUpdates/IndiaWideLiveUpdates';
+import {Container} from 'react-bootstrap';
+import styles from './App.module.css';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+class  App extends Component{
+  render(){
+    return (
+      <Router>
+        <div className={styles.body}>
+          <SideNav />
+          <Container>
+          <Switch>
+            <Route path="/" exact component={WorldWideLiveUpdates}/>
+            <Route path="/BedsAvailability" component={BedsAvailability}/>
+            <Route path="/HelpLineNumbers" component={HelpLineNumbers}/>
+            <Route path="/IndiaWideLiveUpdates" component={IndiaWideLiveUpdates}/>
+          </Switch> 
+          </Container>
+        </div>
+      </Router>
+    );
+  }
 }
 
 export default App;

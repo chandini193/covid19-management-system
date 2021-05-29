@@ -1,0 +1,24 @@
+.card {
+    margin-top: 20px;
+    font-size: 1.1rem;
+}
+
+.confirmed {
+    background: rgb(0, 0, 255, 0.5);
+    margin-left: 15px;
+}
+
+.recovered {
+    background: rgb(175, 210, 117);
+    margin-left: 15px;
+}
+
+.deaths {
+    background: rgb(255, 0, 0, 0.5);
+    margin-left: 15px;
+}
+
+.lastUpdate {
+    margin-left: 15px;
+    background: yellow;
+}
