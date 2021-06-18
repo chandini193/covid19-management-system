@@ -1,0 +1,28 @@
+.name {
+    font-size: 1.1rem;
+    font-weight: bold;
+}
+
+.redClass {
+    padding: 2px;
+    margin-left: 5px;
+    background-color: rgb(255, 0, 0, 0.5);
+    box-shadow: 1px 1px #888888;
+    border-radius: 0.5rem;
+}
+
+.yellowClass {
+    padding: 2px;
+    margin-left: 5px;
+    background-color: rgb(255, 255, 0, 0.5);
+    box-shadow: 1px 1px #cecccc;
+    border-radius: 0.5rem;
+}
+
+.greenClass {
+    background-color: rgba(86, 252, 86, 0.5);
+}
+
+.maroonClass {
+    background-color: rgba(188, 143, 143, 0.5);
+}

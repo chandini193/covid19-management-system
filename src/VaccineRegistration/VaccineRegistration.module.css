@@ -1,0 +1,36 @@
+.row {
+    margin-top: 50px;
+}
+
+.cardTitle {
+    color: rgb(211, 30, 30);
+    margin-left: 50px;
+}
+
+.cardText {
+    margin-left: 0px !important;
+    padding: 0px !important;
+}
+
+ul {
+    font-size: 1.1rem;
+    list-style: none;
+}
+
+.icon {
+    margin-right: 5px;
+}
+
+
+li {
+    margin: 10px;
+}
+
+.v {
+    background-color: #F5F5F5;
+    padding: 8px;
+}
+
+.badge {
+    background-color: #AFD275 !important;
+}

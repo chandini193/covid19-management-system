@@ -1,0 +1,25 @@
+.form {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    background-color: #AFD275;
+    padding: 25px;
+    border-radius: 0.4rem;
+}
+
+.form_group {
+    margin-right: 20px;
+    margin-left: 10px;
+}
+
+.form_label {
+    margin-right: 15px;
+    font-size: 1.1rem;
+}
+
+.form_control {
+    width: 260px !important;
+}
+
+.btn {
+    background-color: #FFFFFF !important;
+}

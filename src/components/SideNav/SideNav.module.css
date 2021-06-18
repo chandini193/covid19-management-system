@@ -35,6 +35,17 @@
     place-items: center !important;
 }
 
+.navIcon1 {
+    flex: 20% !important;
+    width: 2rem;
+    height: 2rem;
+    place-items: center !important;
+}
+
 .navText {
     flex: 80% !important;
+}
+
+.dropdown_menu {
+    background-color: blueviolet !important;
 }

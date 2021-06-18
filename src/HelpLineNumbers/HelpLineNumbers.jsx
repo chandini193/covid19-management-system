@@ -22,7 +22,7 @@ class BedsAvailability extends Component {
                                 <tr>
                                     <th>S. No</th>
                                     <th>State/UT</th>
-                                    <th>State-wise list of coronavirus helpline numbers</th>
+                                    <th>State-wise coronavirus helpline numbers</th>
                                 </tr>
                             </thead>
                             <tbody>

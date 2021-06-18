@@ -5,6 +5,8 @@ import WorldWideLiveUpdates from './WorldWideLiveUpdates/WorldWideLiveUpdates'
 import BedsAvailability from './BedsAvailability/BedsAvailability';
 import HelpLineNumbers from './HelpLineNumbers/HelpLineNumbers';
 import IndiaWideLiveUpdates from './IndiaWideLiveUpdates/IndiaWideLiveUpdates';
+import VaccinationCenters from './VaccinationCenters/VaccinationCenters';
+import VaccineRegistration from './VaccineRegistration/VaccineRegistration';
 import {Container} from 'react-bootstrap';
 import styles from './App.module.css';
 
@@ -20,6 +22,8 @@ class  App extends Component{
             <Route path="/BedsAvailability" component={BedsAvailability}/>
             <Route path="/HelpLineNumbers" component={HelpLineNumbers}/>
             <Route path="/IndiaWideLiveUpdates" component={IndiaWideLiveUpdates}/>
+            <Route path="/VaccinationCenters" component={VaccinationCenters}/>
+            <Route path="/VaccineRegistration" component={VaccineRegistration}/>
           </Switch> 
           </Container>
         </div>

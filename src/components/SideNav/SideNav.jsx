@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { Navbar, Nav } from 'react-bootstrap';
+import { Navbar, Nav, NavDropdown } from 'react-bootstrap';
 import styles from '../SideNav/SideNav.module.css';
 import cx from 'classnames';
 import BarChartIcon from '@material-ui/icons/BarChart';
@@ -27,27 +27,28 @@ export class SideNav extends Component {
                         <Nav className="mr-auto flex-column">
                             <Nav.Link href="/" className={styles.navLink}>
                                 <LanguageIcon className={styles.navIcon} />
-                                <div className={styles.navText}>World Live Updates</div>
+                                <div className={styles.navText}>WorldLiveUpdates</div>
                             </Nav.Link>
                             <Nav.Link href="/IndiaWideLiveUpdates" className={styles.navLink}>
                                 <BarChartIcon className={styles.navIcon} />
-                                <div className={styles.navText}>India Live Updates</div>
+                                <div className={styles.navText}>IndiaLiveUpdates</div>
                             </Nav.Link>
                             <Nav.Link href="/TestCenters" className={styles.navLink}>
                                 <LocalHospitalIcon className={styles.navIcon} />
                                 <div className={styles.navText}>Test Centers</div>
                             </Nav.Link>
-                            <Nav.Link href="/VaccinationCenters" className={styles.navLink}>
-                                <Icon icon={vaccineIcon} className={styles.navIcon} />
-                                <div className={styles.navText}>Vaccination Centers</div>
-                            </Nav.Link>
+                            <NavDropdown className={styles.navLink} title={<span style={{ display: "inline-block" }}><Icon icon={vaccineIcon} className={styles.navIcon1} />Vaccination</span>} id="nav-dropdown">
+                                <NavDropdown.Item className={styles.navDropDown} href="/VaccinationCenters" eventKey="1">Vaccination Centers</NavDropdown.Item>
+                                <NavDropdown.Divider />
+                                <NavDropdown.Item className={styles.navDropDown} href="/VaccineRegistration" eventKey="2">Vaccine Registration</NavDropdown.Item>
+                            </NavDropdown>
                             <Nav.Link href="/BedsAvailability" className={styles.navLink}>
                                 <HotelIcon className={styles.navIcon} />
                                 <div className={styles.navText}>Beds Availability</div>
                             </Nav.Link>
                             <Nav.Link href="/HelpLineNumbers" className={styles.navLink}>
                                 <ContactPhoneIcon className={styles.navIcon} />
-                                <div className={styles.navText}>Helpline Numbers</div>
+                                <div className={styles.navText}>HelplineNumbers</div>
                             </Nav.Link>
                             <Nav.Link href="/Oxygen" className={styles.navLink}>
                                 <Icon icon={medicineBottleFill} className={styles.navIcon} />
