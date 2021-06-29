@@ -7,6 +7,7 @@ import HelpLineNumbers from './HelpLineNumbers/HelpLineNumbers';
 import IndiaWideLiveUpdates from './IndiaWideLiveUpdates/IndiaWideLiveUpdates';
 import VaccinationCenters from './VaccinationCenters/VaccinationCenters';
 import VaccineRegistration from './VaccineRegistration/VaccineRegistration';
+import PageNotFound from './PageNotFound/PageNotFound';
 import {Container} from 'react-bootstrap';
 import styles from './App.module.css';
 
@@ -24,6 +25,7 @@ class  App extends Component{
             <Route path="/IndiaWideLiveUpdates" component={IndiaWideLiveUpdates}/>
             <Route path="/VaccinationCenters" component={VaccinationCenters}/>
             <Route path="/VaccineRegistration" component={VaccineRegistration}/>
+            <Route component={PageNotFound}/>
           </Switch> 
           </Container>
         </div>
