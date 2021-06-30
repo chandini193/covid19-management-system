@@ -11,12 +11,12 @@ class BedsAvailability extends Component {
         return (
             <Container>
                 <Row>
-                    <Col md={{ span: 10, offset: 2 }} className={styles.main}>
+                    <Col md={{ span: 11, offset: 2 }} className={styles.main}>
                         <Typography variant='h5'>State-wise list of coronavirus helpline numbers:</Typography>
                     </Col>
                 </Row>
                 <Row>
-                    <Col md={{ span: 10, offset: 2 }}>
+                    <Col md={{ span: 11, offset: 2 }}>
                         <Table striped bordered hover responsive style={{ marginTop: "20px" }}>
                             <thead>
                                 <tr>

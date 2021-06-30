@@ -1,0 +1,29 @@
+[
+ {
+    "collection_sites": [
+      {
+        "address": "National Highway 52A, Old Assembly Complex, Naharlagun, Arunachal Pradesh 791110",
+        "name": "Tomo Riba Institute of Health & Medical Sciences, Naharlagun"
+      }
+    ],
+    "state_or_UT": "Arunachal Pradesh"
+  },
+{
+    "collection_sites": [
+      {
+        "address": "Sonam Nurboo Memorial Hospital, Old Leh Rd, Leh-Ladakh, Ladakh 194101",
+        "name": "Sonam Nurboo Memorial Hospital, Leh-Ladakh"
+      }
+    ],
+    "state_or_UT": "Ladakh"
+  },
+{
+    "collection_sites": [
+      {
+        "address": "STNM Hospital, Sungava, Gangtok, Sikkim 737101",
+        "name": "Sir Thutob Namgyal Memorial Hospital (STNM), Gangtok"
+      }
+    ],
+    "state_or_UT": "Sikkim"
+  }
+]

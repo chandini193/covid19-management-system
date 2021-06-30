@@ -1,0 +1,333 @@
+[
+  {
+    "private_labs": [
+      {
+        "address": "Dr Lal PathLabs, National Reference laboratory, B7 Rd, Block E, Sector 18, Rohini, New Delhi, Delhi 110085",
+        "name": "Dr Lal PathLabs, National Reference laboratory"
+      },
+      {
+        "address": "Dr. Dang’s Lab, C2/1 SDA Aurbindo Marg, New Delhi 110016",
+        "name": "Dr. Dang’s Lab, New Delhi"
+      },
+      {
+        "address": "Laboratory Services Indraprastha Apollo Hospitals, Sarita Vihar, New Delhi 110076",
+        "name": "Laboratory Services Indraprastha Apollo Hospitals, Sarita Vihar, New Delhi"
+      },
+      {
+        "address": "Max lab, Max Super Speciality Hospital, 1, Press Enclave Road, Saket New Delhi 110017",
+        "name": "Max lab, Max Super Speciality Hospita, Saket, New Delhi"
+      },
+      {
+        "address": "Sir ganga ram hospital clinical laboratory services, Sarhadi Gandhi Marg, Old Rajinder Nagar, Rajinder Nagar, New Delhi, Delhi 110060",
+        "name": "Sir ganga ram hospital clinical laboratory services, New Delhi"
+      },
+      {
+        "address": "ONCQUEST Laboratories Limited 3-Factory Road, Adjacent Safdarjung Hospital, New Delhi, Delhi 110029",
+        "name": "ONCQUEST Laboratories Limited, New Delhi"
+      },
+      {
+        "address": "Prognosis Laboratories, 515-516, behind Gupta Properties, Close to Welcome Hotel (ITC, Sector 19, Pocket 1, Dwarka, New Delhi, Delhi 110075",
+        "name": " Prognosis Laboratories, New Delhi"
+      },
+      {
+        "address": "City X Ray & Scan Clinic Pvt. Ltd., Molecular Laboratory, Third Floor,City Imaging Building, 4B/18, Tilak Nagar, Near haldiram, New Delhi 110018",
+        "name": "City x-Ray & Scan Clinic Pvt. Ltd., New Delhi"
+      }
+    ],
+    "state_or_UT": "Delhi"
+  },
+  {
+    
+    "private_labs": [
+      {
+        "address": "Unipath Speciality Laboratory Limited,, 102, 1st Floor, Sanoma Plaza, Sheth Mangald Road, Opp. Parimal Garden, Ellisbridge, Ahmedabad, Gujarat 380006",
+        "name": "Unipath Speciality Laboratory Limited, Ahmedabad"
+      },
+      {
+        "address": "Supratech Micropath Laboratory & Research Institute Pvt. Ltd., Neuberg Supratech, Ground Floor, Kedar Builiding, Opp. Krupa petrol Pump Parimal garden, Gujarat 380006",
+        "name": "Supratech Micropath Laboratory & Research Institute Pvt. Ltd., Ahmedabad"
+      },
+      {
+        "address": "S. N. GENELAB, 2nd Floor, President Plaza-A, Nanpura, Surat, Gujarat, India 395001",
+        "name": "S. N. GENELAB, Nanpura, Surat"
+      },
+      {
+        "address": " PanGenomics International Pvt. Ltd., 1st floor sankalp Squre Juna sharda Mandir Cross Road, Ahmedabad, Gujarat 380006",
+        "name": "PanGenomics International Pvt. Ltd., Ahmedabad"
+      }
+    ],
+    "state_or_UT": "Gujarat"
+  },
+  {
+    "private_labs": [
+      {
+        "address": "Strand Life Sciences, A-17, Info Technology Park, Sector 34, Gurugram, Haryana 122001",
+        "name": "Strand Life Sciences, Gurugram"
+      },
+      {
+        "address": "SRL Limited, GP 26 Sector 18, Gurugram, Haryana, India Pin 122015",
+        "name": "SRL Limited, Gurugram"
+      },
+      {
+        "address": "Modern Diagnostic & research Centre Laboratory, 363-364/4, Jawahar Nagar, New Railway Road, Gurugram-122001, Haryana",
+        "name": "Modern Diagnostic & research Centre Laboratory, Gurugram"
+      },
+      {
+        "address": " CORE Diagnostics Pvt Ltd, 406, Udyog Vihar III, Sector 20, Gurugram, Haryana 122016",
+        "name": "CORE Diagnostics Pvt Ltd, Gurugram"
+      },
+      {
+        "address": "Molq Lab (A Unit of Molecular Quest Healthcare Private Limited), Plot 28-29, Sector 18(P), Electronic City, Udyog Vihar Phase-IV, Gurugram, Haryana 122001",
+        "name": "Molq Lab (A Unit of Molecular Quest Healthcare Private Limited), Gurugram"
+      },
+      {
+        "address": "PATHKIND Diagnostics Pvt. Ltd., Plot No. 55, 56, Service Lane, Phase IV, Udyog Vihar, Sector 18, Gurugram, Haryana 122015",
+        "name": "PATHKIND Diagnostics Pvt. Ltd., Gurugram"
+      }
+    ],
+    "state_or_UT": "Haryana"
+  },
+  
+ 
+  {
+    
+    "private_labs": [
+      {
+        "address": "Neuberg Anand Reference Laboratory, Anand Tower, #54, bowring Hospital Road, Bengaluru, karnataka, India 560001",
+        "name": "Neuberg Anand Reference Laboratory, Bengaluru"
+      },
+      {
+        "address": "Cancyte Technologies Private Limited, Bengaluru, Karnataka 560018",
+        "name": "Cancyte Technologies Private Limited, Bengaluru"
+      },
+      {
+        "address": "Sakra World Hospital Laboratory Services, 52/2 & 52/3, Deverabeesanahalli, Varthur Hobli, Bangalore-560103, Karnataka, India",
+        "name": "Sakra World Hospital Laboratory Services, Bangalore"
+      },
+      {
+        "address": "Central Diagnostic Laboratory, Vydehi Institute of Medical Sciences & Research Centre, Basement Hospital Building, #82, E.P.I.P. Area, Whitefield, Bangalore-560066, Karnataka",
+        "name": "Central Diagnostic Laboratory, Vydehi Institute of Medical Sciences & Research Centre, Bangalore"
+      }
+    ],
+    "state_or_UT": "Karnataka"
+  },
+  {
+    
+    "private_labs": [
+      {
+        "address": "DDRC SRL Diagnostics Pvt Ltd, DDRC SRL TOWER,G-131, Panampilly Nagar, Ernakulam, Kerala 682036",
+        "name": "DDRC SRL Diagnostics Pvt Ltd, Ernakulam"
+      },
+      {
+        "address": "Aster MIMS Laboratory Services, Mini, Mini Bypass Rd, Govindapuram, Kozhikode, Kerala 673016",
+        "name": "MIMS Laboratory Services, Kozhikode"
+      }
+    ],
+    "state_or_UT": "Kerala"
+  },
+
+  {
+    
+    "private_labs": [
+      {
+        "address": "Thyrocare Technologies Limited, D-37/1 MIDC Turbhe Opp Sandoz, MIDC Industrial Area, Sanpada, Navi Mumbai, Maharashtra 400703",
+        "name": "Thyrocare Technologies Limited, Navi Mumbai"
+      },
+      {
+        "address": "Suburban Diagnostics (India) Pvt. Ltd., 2nd Floor Aston, Shastri Nagar, Andheri (W), Mumbai, Maharashtra, India 400053",
+        "name": "Suburban Diagnostics (India) Pvt. Ltd., Mumbai"
+      },
+      {
+        "address": "Metropolis Healthcare Ltd, 4th Floor, Commerical Building 1-A, Kohinoor City Mall, Off LBS Marg, Vidyavihar (West), Mumbai, Maharashtra 400070",
+        "name": "Metropolis Healthcare Ltd, Mumbai"
+      },
+      {
+        "address": "Sir H.N. Reliance Foundation Hospital and Research Center, Reliance Life Sciences Pvt Ltd, MIDC, R-282, Thane - Belapur Rd, T.T.C. Industrial Area, Rabale, Navi Mumbai, Maharashtra 400701",
+        "name": "Sir H. N. Reliance Foundation Hospital and Research Center, Mumbai"
+      },
+      {
+        "address": "SRL Diagnostics, Plot No 1, Prime Square building, Gaiwadi Industrial, estate, Next to Patel Petrol Pump, Opposite Mahesh Nagar, S.V. Road, Goregaon West, Mumbai, Maharashtra 400062",
+        "name": "SRL Diagnostics, Goregaon West"
+      },
+      {
+        "address": "A.G Diagnostics Pvt Ltd, CTS No 809, F.P. 147, Nayantara Building, Bhandarkar Road, Pune, Maharashtra 411004",
+        "name": "A.G Diagnostics Pvt Ltd, Pune"
+      },
+      {
+        "address": "Kokilaben Dhirubhai Ambani Hospital Laboratory, Four Bungalows, Andheri (West), Mumbai, Maharashtra, India",
+        "name": "Kokilaben Dhirubhai Ambani Hospital Laboratory, Mumbai"
+      },
+      {
+        "address": "InfeXn Laboratories Private Ltd, A/131, Therelek Compound, Road Number 23, Wagle Industrial Estate, Thane West, Thane, Maharashtra 400604",
+        "name": "InfeXn Laboratories Private Ltd, Thane"
+      },
+      {
+        "address": "iGenetic Diagnostics Pvt. Ltd., 1st Floor, krislon House, Off Marol Military Road, Andheri East, Mumbai Maharashtra 400072",
+        "name": "iGenetic Diagnostics Pvt. Ltd., Mumbai"
+      },
+      {
+        "address": "Tata Memorial Centre Diagnostic Services, Tata Memorial Hospital, Dept. of Microbiology & Serology, 6th Floor, Anexe Building, Tata Memorial Hospital, Dr. E. Borges Road, Parel, Mumbai 400012",
+        "name": "Tata Memorial Centre Diagnostic Services, Tata Memorial Hospital, Mumbai"
+      },
+      {
+        "address": "Sahyadri Speciality Labs, Plot No. 54, S.No. 80-90, Lokmanya Colony, Kothrud, Pune-411038, Maharashtra, India",
+        "name": "Sahyadri Speciality Labs, Pune"
+      },
+      {
+        "address": "Dr. Jariwala Laboratory & Diagnostics LLP, 1st Floor, Rasraj Heights, Rokadia Lane, Near Gokul Hotel Off,Mandpeshwar Road, Borivli (W), Mumbai-400092, Maharashtra",
+        "name": "Dr. Jariwala Laboratory & Diagnostics LLP, Mumbai"
+      },
+      {
+        "address": "Construction House, Ground Floor, First Floor & Second Floor, 796/189-B, Bhandarkar Institute Road, Pune – 411004, Maharashtra, India",
+        "name": "Metropolis Healthcare Limited, Pune"
+      },
+      {
+        "address": "Ruby Hall Clinic, Department of Laboratory, Grant Medical Foundation, 40, Sassoon Road, Pune – 411001, Maharashtra, India",
+        "name": "Ruby Hall Clinic, Department of Laboratory, Grant Medical Foundation, Pune"
+      }
+    ],
+    "state_or_UT": "Maharashtra"
+  },
+  {
+    
+    "private_labs": [
+      {
+        "address": "Department of Laboratory Services Apollo Hospitals, Plot no 251, Sainik School Rd, Unit 15, Gajapati Nagar, Bhubaneswar, Odisha 751005",
+        "name": "Department of Laboratory Services Apollo Hospitals, Bhubaneswar"
+      }
+    ],
+    "state_or_UT": "Odisha"
+  },
+  {
+    "private_labs": [
+      {
+        "address": "Department of Clinical Virology, Christian Medical College, 9th Floor, ASHA Building, IDA Scudder Road, Christian Medical College, Vellore, Tamil Nadu, India Pin 632004",
+        "name": "Christian Medical College, Vellore"
+      },
+      {
+        "address": "Department of Laboratory Services, Apollo Hospitals Enterprise Limited, 21 Greams Lane, Off Greams Road, Chennai Tamil Nadu Pin 600006",
+        "name": "Apollo Hospitals Enterprise Limited, Chennai"
+      },
+      {
+        "address": "Neuberg Ehrlich Laboratory Pvt Ltd, 46 & 48, Masilamani Road, Balaji Nagar, Royapettah, Chennai - 600 014, Tamil Nadu",
+        "name": "Neuberg Ehrlich Laboratory Pvt Ltd, Chennai"
+      },
+      {
+        "address": "No.1 Ramachandra Nagar, Porur, Chennai - 600116 Tamil Nadu, India",
+        "name": "Sri Ramachandra Laboratory Services, Chennai"
+      },
+      {
+        "address": "Microbiological laboratory, no-02, kings colony, united nagar, veerakeralam road, vadavalli, Coimbatore, Tamil Nadu, India",
+        "name": "Microbiological Laboratory, Coimbatore"
+      },
+      {
+        "address": "Division of Molecular Biology & Genotyping, YRG CARE Infectious Diseases Laboratory VHS Hospital Campus, Rajiv Gandhi Road, Tharamani, Chennai, Tamil Nadu 600113",
+        "name": "Y. R. Gaitonde Centre for AIDS Research and Education (YRG Care), Chennai"
+      },
+      {
+        "address": "K.A.P.Viswanatham Government Medical College, Periyamilaguparai, Colletor's office Road, Trichy, Tamil Nadu 620001",
+        "name": "K.A.P. Viswanatham Government Medical College, Trichy"
+      },
+      {
+        "address": "Madras Medical Mission Clinical, Laboratory Services, 4-A, Dr. J. Jayalalitha Nagar, Mogappair, Chennai-600037, India",
+        "name": "Madras Medical Mission Clinical Laboratory Services, Chennai"
+      },
+      {
+        "address": "MIOT Hospitals – Department of Laboratory Medicine, No : 4/112, Mount Poonamallee Road, Manapakkam, Chennai-600089, Tamil Nadu",
+        "name": "MIOT Hospitals – Department of Laboratory Medicine, Chennai"
+      }
+    ],
+    "state_or_UT": "Tamil Nadu"
+  },
+  {
+    "private_labs": [
+      {
+        "address": "Laboratory Services Apollo Hospitals Hyderabad, 6th Floor Health street Building, Jubilee Hills, Hyderabad 500096",
+        "name": "Laboratory Services Apollo Hospitals, Hyderabad"
+      },
+      {
+        "address": "Vijaya Diagnostic Centre Pvt. Ltd, 3-6-16 & 17, Street No.19, opp. Lane to Tanishq, Chandra Nagar, Himayatnagar, Hyderabad, Telangana 500029",
+        "name": "Vijaya Diagnostic Centre Pvt. Ltd, Hyderabad"
+      },
+      {
+        "address": "Vimta Labs Ltd., Plot No. 142, Phase 2, IDA Cherlapally, Hyderabad, Telangana, India 500051",
+        "name": "Vimta Labs Ltd., Hyderabad"
+      },
+      {
+        "address": "Apollo Health and Lifestyle Limited-Secunderabad, Diagnostics Laboratory, NOS, 140/A, 140/B, 140/C, 141/A, 141/B, 141/C, Thokatta Village, Bowenpally, Secunderabad, Telangana, Hyderabad-500011",
+        "name": "Apollo Health and Lifestyle Limited-Secunderabad, Diagnostics Laboratory, Hyderabad"
+      },
+      {
+        "address": "Dr. Remedies labs Private Limited , Titus Plaza, 1st Floor, Sharma Commercial Complex, Hyderabad, Telangana 500082",
+        "name": "Dr. Remedies labs Private Limited , Hyderabad"
+      },
+      {
+        "address": "PATHCARE Labs Pvt. Ltd., Sy. #34, Opp: Geethanjali Engineering College, Cheeryal (V), Keesara (M), Greater Hyderabad, Telangana 501301",
+        "name": "PATHCARE Labs Pvt. Ltd., Hyderabad"
+      },
+      {
+        "address": "AMERICAN Institute of Pathology and Laboratory Sciences Private Limited, Door No. 1-100/CCH, Second Floor, At Citizens Hospital, Nallagandla, Serilingampally, Hyderabad, Telangana 500019",
+        "name": "AMERICAN Institute of Pathology and Laboratory Sciences Private Limited, Hyderabad"
+      },
+      {
+        "address": "Medcis Pathlabs India Pvt.Ltd., Plot 16 & 17, Swathi Plaza, Bhavani Enclave, Anand Nagar, New Bowenpally, near Asish Gardens, Hyderabad, Telangana 500011",
+        "name": "Medcis Pathlabs India Pvt.Ltd., Secunderabad"
+      },
+      {
+        "address": "The Department of Laboratory Medicine, Yashoda Hospital, 9th Floor, 1-1-156 & 157, Alexander Road, S. P. Road, Secunderabad, Telangana 500003",
+        "name": "The Department of Laboratory Medicine, Yashoda Hospital, Secunderabad"
+      },
+      {
+        "address": "Biognosys Technologies (India) Private Limited, # 8 - 148/174/11, NRI Colony, ALEAP Industrial Area, Medchal, Malkajgiri, Hyderabad, Telangana 500090, India",
+        "name": "Biognosys Technologies (India) Private Limited, Hyderabad"
+      }
+    ],
+    "state_or_UT": "Telangana"
+  },
+ 
+  {
+    
+    "private_labs": [
+      {
+        "address": " RML Mehrotra Pathology Pvt Ltd., A-21/A, Nirala Nagar, Lucknow, Uttar Pradesh 226020",
+        "name": "RML Mehrotra Pathology Pvt Ltd., Lucknow"
+      },
+      {
+        "address": "Department of Laboratory Medicine, Jaypee Hospital, Sector 128, Noida-201304",
+        "name": "Department of Laboratory Medicine, Jaypee Hospital, Noida"
+      }
+    ],
+    "state_or_UT": "Uttar Pradesh"
+  },
+  {
+    
+    "private_labs": [
+      {
+        "address": "Dr. Ahuja’s Pathlogy and Imaging Centre-Department of Laboratory Medicine, 7-B Astley Hall, Ugrasain Rd, Dehradun, Uttarakhand 248001",
+        "name": "Dr. Ahuja’s Pathlogy and Imaging Centre-Department of Laboratory Medicine, Dehradun"
+      }
+    ],
+    "state_or_UT": "Uttarakhand"
+  },
+  {
+    "private_labs": [
+      {
+        "address": "Apollo Gleneagles Hospitals, 58, Canal Circular Road, Kolkata, West Bengal 700054",
+        "name": "Apollo Gleneagles Hospitals, Kolkata"
+      },
+      {
+        "address": "Department of Laboratory Sciences, Tata Medical Center, 14, MAR(E-W), DH Block(Newtown), Action Area I, Newtown, Kolkata, West Bengal 700160",
+        "name": "Tata Medical Center, Kolkata"
+      },
+      {
+        "address": "Laboratory Services, Peerless Hospitex Hospital & Research Center Limited, 360, Panchasayar, Kolkata, West Bengal 700094, India",
+        "name": "Laboratory Services, Peerless Hospitex Hospital & Research Center Limited, Kolkata"
+      },
+      {
+        "address": "AMRI Hospitals, Department of Laboratory Medicine, JC 16 & 17, Sector III, Salt Lake City, Kolkata, West Bengal -700098, India",
+        "name": "AMRI Hospitals, Department of Laboratory Medicine, Kolkata"
+      }
+    ],
+    "state_or_UT": "West Bengal"
+  }
+]

@@ -1,8 +1,10 @@
-.main{
-
+.main {
     font-style: oblique;
     width: calc(100%+2px);
-    height:5px;
+    height: 5px;
     border-bottom: 1px solid transparent;
 }
 
+.layout {
+    margin-top: 40px;
+}

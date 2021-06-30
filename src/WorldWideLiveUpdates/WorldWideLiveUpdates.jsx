@@ -4,6 +4,7 @@ import CountryPicker from '../components/CountryPicker/CountryPicker';
 import { fetchCountries, fetchData } from '../api';
 import { Component } from 'react';
 import styles from './WorldWideLiveUpdates.module.css';
+import { Container, Row, Col } from 'react-bootstrap';
 
 class WorldWideLiveUpdates extends Component {
     state = {
@@ -28,11 +29,15 @@ class WorldWideLiveUpdates extends Component {
 
     render() {
         return (
-            <div className={styles.container}>
-                <Cards data={this.state.data} />
-                <CountryPicker data={this.state.countries} changeCounrtyHandler={this.changeCountryHandler} />
-                <Chart data={this.state.data} country={this.state.country} />
-            </div>
+            <Container>
+                <Row>
+                    <Col md={{ offset: 2, span: 10 }} className={styles.container}>
+                        <Cards data={this.state.data} />
+                        <CountryPicker data={this.state.countries} changeCounrtyHandler={this.changeCountryHandler} />
+                        <Chart data={this.state.data} country={this.state.country} />
+                    </Col>
+                </Row>
+            </Container>
         );
     }
 }

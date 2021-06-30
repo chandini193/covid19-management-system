@@ -17,7 +17,7 @@ class BedsAvailability extends Component {
                     </Col>
                 </Row>
                 <Row>
-                    <Col md={{ span: 10, offset: 2 }}>
+                    <Col md={{ span: 11, offset: 2 }}>
                         <Table striped bordered hover responsive style={{ marginTop: "20px" }}>
                             <thead>
                                 <tr>
