@@ -1,0 +1,71 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+}
+
+.information {
+  display: flex;
+  flex-direction: column;
+  background-color: #AFD275;
+  width: 50%;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 0px 0px 15px -5px;
+  margin-top: 2%;
+  margin-bottom: 50%;
+  margin-left: 30%;
+  margin-right: 30%;
+  padding: 20px;
+}
+
+.information input {
+  width: 250px;
+  height: 30px;
+
+}
+
+.information button:hover {
+  cursor: pointer;
+}
+
+select {
+  width: 250px;
+  height: 30px;
+}
+
+.cha {
+  align-items: center;
+  justify-content: center;
+}
+
+p {
+  align-items: center;
+  justify-content: center;
+}
+
+select {
+  width: 250px;
+  height: 30px;
+}
+
+.formLink {
+  align-items: center;
+  justify-content: center;
+  height: 50px;
+  background-color: #AFD275;
+  margin-left: 15%;
+  padding: 20px;
+}
+
+.card {
+  margin-left: 15%;
+  margin-top: 30px !important;
+}
+
+.heading {
+  padding: 20px;
+  background-color: #AFD275;
+  margin-left: 15%;
+}

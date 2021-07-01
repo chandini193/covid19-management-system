@@ -1,0 +1,25 @@
+p{
+  align-items: center;
+  justify-content: center;
+}
+select{
+  width: 250px;
+  height: 30px;
+}
+.hey{
+background-color:#AFD275;
+
+}
+.hello{
+align-items: center;
+justify-content: center;
+height: px;
+background-color:#AFD275;
+}
+.card {
+  margin-left: 15%;
+  margin-top: 30px !important;
+}
+
+
+
