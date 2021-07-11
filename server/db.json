@@ -2,7 +2,7 @@
   "Oxygen": [
     {
       "id": "1",
-      "userName": "Amulya",
+      "Name": "Amulya",
       "email": "amulyaguntaka@gmail.com",
       "phoneNumber": "9182791271",
       "address": "2-16",
@@ -12,7 +12,7 @@
       "remarks": "NA"
     },
     {
-      "userName": "nithin",
+      "Name": "nithin",
       "email": "amulyasrinivas16@gmail.com",
       "phoneNumber": "09182791271",
       "address": "2-16a,ramalayam",
@@ -21,12 +21,24 @@
       "state_name": "Andhra Pradesh",
       "remarks": "NA",
       "id": "BtmTq4q"
+    },
+    {
+      "Name": "amulya gunta",
+      "email": "amulyasrinivas16@gmail.com",
+      "phoneNumber": "09182791271",
+      "address": "2-16a,ramalayam",
+      "city": "ongole",
+      "district_name": "Prakasam",
+      "state_name": "Andhra Pradesh",
+      "remarks": "NA",
+      "verified": "",
+      "id": "2"
     }
   ],
   "Ambulance": [
     {
       "id": "1",
-      "userName": "Amulya",
+      "Name": "Amulya",
       "email": "amulyaguntaka@gmail.com",
       "phoneNumber": "9182791271",
       "address": "2-16",
@@ -36,7 +48,7 @@
       "remarks": "NA"
     },
     {
-      "userName": "nithin",
+      "Name": "nithin",
       "email": "amulyasrinivas16@gmail.com",
       "phoneNumber": "09182791271",
       "address": "2-16a,ramalayam",
@@ -45,6 +57,17 @@
       "state_name": "Andhra Pradesh",
       "remarks": "NA",
       "id": "J3DUsfD"
+    },
+    {
+      "Name": "amulya gunta",
+      "email": "amulyasrinivas16@gmail.com",
+      "phoneNumber": "09182791271",
+      "address": "2-16a,ramalayam",
+      "city": "ongole",
+      "district_name": "Prakasam",
+      "state_name": "Andhra Pradesh",
+      "remarks": "NA",
+      "id": "ygw0d5p"
     }
   ],
   "BloodBank": [
@@ -83,66 +106,6 @@
       "remarks": "NA",
       "id": "3",
       "verified": "No"
-    },
-    {
-      "bloodBankName": "Anitha",
-      "email": "anitha@gmail.com",
-      "phoneNumber": "8182727374",
-      "address": "2-56",
-      "city": "kanigiri",
-      "district_name": "Prakasam",
-      "state_name": "Andhra Pradesh",
-      "remarks": "NA",
-      "verified": "No",
-      "id": "4"
-    },
-    {
-      "bloodBankName": "kala",
-      "email": "amulyasrinivas16@gmail.com",
-      "phoneNumber": "09182791271",
-      "address": "2-16a,ramalayam",
-      "city": "ongole",
-      "district_name": "Prakasam",
-      "state_name": "Andhra Pradesh",
-      "remarks": "NA",
-      "verified": "No",
-      "id": "5"
-    },
-    {
-      "bloodBankName": "kavitha",
-      "email": "amulyasrinivas16@gmail.com",
-      "phoneNumber": "09182791271",
-      "address": "2-16a,ramalayam",
-      "city": "ongole",
-      "district_name": "Prakasam",
-      "state_name": "Andhra Pradesh",
-      "remarks": "NA",
-      "verified": "No",
-      "id": "MG8neX8"
-    },
-    {
-      "bloodBankName": "nithin",
-      "email": "amulyasrinivas16@gmail.com",
-      "phoneNumber": "09182791271",
-      "address": "2-16a,ramalayam",
-      "city": "ongole",
-      "district_name": "Prakasam",
-      "state_name": "Andhra Pradesh",
-      "remarks": "NA",
-      "verified": "Yes",
-      "id": "You-_3Z"
-    },
-    {
-      "bloodBankName": "kala",
-      "email": "amulyasrinivas16@gmail.com",
-      "phoneNumber": "09182791271",
-      "address": "2-16a,ramalayam",
-      "city": "ongole",
-      "district_name": "Prakasam",
-      "state_name": "Andhra Pradesh",
-      "remarks": "NA",
-      "verified": "",
-      "id": "0C2ae8U"
     }
   ]
 }

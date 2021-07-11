@@ -14,7 +14,7 @@ export default function Map(props) {
     const [selectedState, setSelectedState] = useState(null);
     return (
         <Container>
-            <Row><Col md={{ offset: 2, span: 8 }}>
+            <Row><Col md={{ offset: 3, span: 8 }}>
                 <p className={styles.heading}>Click on <AddLocationIcon fontSize={"small"} />to get state wise covid19 live updates</p>
             </Col></Row>
             <Row><Col md={{ offset: 1, span: 8 }}>

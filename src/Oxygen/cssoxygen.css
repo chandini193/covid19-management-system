@@ -1,13 +1,10 @@
 .App {
   display: flex;
-  flex-direction: column;
   justify-content: center;
-
 }
 
 .information {
   display: flex;
-  flex-direction: column;
   background-color: #AFD275;
   width: 50%;
   justify-content: center;
@@ -17,6 +14,7 @@
   margin-bottom: 50%;
   margin-left: 30%;
   margin-right: 30%;
+  padding: 15px;
 }
 
 .information input {
@@ -34,11 +32,6 @@ select {
   height: 30px;
 }
 
-.cha {
-  align-items: center;
-  justify-content: center;
-}
-
 p {
   align-items: center;
   justify-content: center;
@@ -49,22 +42,27 @@ select {
   height: 30px;
 }
 
-.hey {
+.layout {
   background-color: #AFD275;
   margin-left: 15%;
-  padding: 20px;
+  padding: 15px;
 }
 
-.hello {
+.innerlayout {
   align-items: center;
   justify-content: center;
-  height: 30px;
+  height: 40px;
   background-color: #AFD275;
   margin-left: 15%;
-  padding: 30px;
+  padding: 10px;
 }
 
 .card {
   margin-left: 15%;
   margin-top: 30px !important;
+  border-color: #AFD275;
+}
+
+.style {
+  background-color: red;
 }

@@ -1,12 +1,12 @@
 import { Component } from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import './oxygen.css';
+import './cssoxygen.css';
 import { BsInfoSquareFill } from 'react-icons/bs';
 import { CardContent, Typography } from '@material-ui/core';
 import { Card } from '@material-ui/core';
 
 
-class Olist extends Component {
+class OxygenHomePage extends Component {
     constructor(props) {
         super(props)
         this.state = {
@@ -25,9 +25,9 @@ class Olist extends Component {
     render() {
         return (
             <div>
-                <p align="center"><h3 className="hey">Oxygen DashBoard</h3></p><br />
-                <p className="hello" align="center"><h6>  <BsInfoSquareFill /> if you want to provide the services regarding the Oxygen Bank{" "}
-                    <a href="/OContacts">Fill the form</a></h6></p>
+                <p align="center"><h3 className="layout">Oxygen Dash Board</h3></p><br />
+                <p className="innerlayout" align="center"><h6>  <BsInfoSquareFill /> if you want to provide the services regarding the Oxygen
+                    <a href="/OxygenServiceForm">{" "}Click here</a></h6></p>
                 <br />
                 <div>
 
@@ -37,7 +37,7 @@ class Olist extends Component {
                             return (
                                 <Card key={item.id} className="card">
                                     <CardContent>
-                                        <Typography color="textSecondary" gutterButtom>UserName  :  {item.userName}</Typography>
+                                        <Typography color="textSecondary" gutterButtom>Name  :  {item.Name}</Typography>
                                         <Typography color="textSecondary" gutterButtom>Email  :  {item.email}</Typography>
                                         <Typography color="textSecondary" gutterButtom>PhoneNumber  :  {item.phoneNumber}</Typography>
                                         <Typography color="textSecondary" gutterButtom>Address  :  {item.address}</Typography>
@@ -56,4 +56,4 @@ class Olist extends Component {
         )
     }
 };
-export default Olist;
+export default OxygenHomePage;

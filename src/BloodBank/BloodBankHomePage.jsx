@@ -1,12 +1,10 @@
 import React from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import './bloodcss.css';
+import './cssBloodBank.css';
 import { BsInfoSquareFill } from 'react-icons/bs';
 import { CardContent, Typography } from '@material-ui/core';
 import { Card } from '@material-ui/core';
-//import style from './bloodcss.css';
-//import cx from 'classnames';
-class Blist extends React.Component {
+class BloodBankHomePage extends React.Component {
     constructor() {
         super()
         this.state = {
@@ -26,9 +24,9 @@ class Blist extends React.Component {
 
         return (
             <div>
-                <p align="center"><h4 className="hey">Blood Bank DashBoard</h4></p><br />
-                <p className="hello" align="center"><h6>  <BsInfoSquareFill /> if you want to provide the services regarding the Blood Bank{" "}
-                    <a href="/Contacts">Click here</a></h6></p>
+                <p align="center"><h4 className="layout">Blood Bank Dash Board</h4></p><br />
+                <p className="innerlayout" align="center"><h6>  <BsInfoSquareFill /> if you want to provide the services regarding the Blood Bank
+                    <a href="/BloodBankServiceForm">{" "}Click here</a></h6></p>
                 <br />
                 <h5 align="center">Contacts of the Blood Bank</h5>
                 {
@@ -54,4 +52,4 @@ class Blist extends React.Component {
         )
     }
 }
-export default Blist;
+export default BloodBankHomePage;

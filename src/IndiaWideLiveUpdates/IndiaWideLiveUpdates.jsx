@@ -31,7 +31,7 @@ class IndiaWideLiveUpdates extends Component {
         return (
             <Container>
                 <Row>
-                    <Col md={{ offset: 2, span: 10 }}>
+                    <Col md={{ offset: 1, span: 11 }}>
                         <Card className={styles.card}>
                             <Card.Body>
                                 <span>India</span>

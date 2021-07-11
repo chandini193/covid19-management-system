@@ -1,10 +1,10 @@
 import React from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import './ambulance.css';
+import './cssambulance.css';
 import { BsInfoSquareFill } from 'react-icons/bs';
 import { CardContent, Typography } from '@material-ui/core';
 import { Card } from '@material-ui/core';
-class Alist extends React.Component {
+class AmbulanceHomePage extends React.Component {
     constructor() {
         super()
         this.state = {
@@ -22,17 +22,17 @@ class Alist extends React.Component {
     render() {
         return (
             <div>
-                <p align="center"><h3 className="heading">Ambulance Dashboard</h3></p><br />
-                <p className="formLink" align="center"><h6>  <BsInfoSquareFill /> if you want to provide the services regarding the Ambulance{" "}
-                    <a href="/AContacts">Click here</a></h6></p>
+                <p align="center"><h3 className="layout">Ambulance Dash Board</h3></p><br />
+                <p className="innerlayout" align="center"><h6>  <BsInfoSquareFill /> if you want to provide the services regarding the Ambulance
+                    <a href="/AmbulanceServiceForm">{" "}Click here</a></h6></p>
                 <br />
-                <h5 align="center">Contacts of the Ambulance Service Providers</h5>
+                <h5 align="center">Contacts of the Ambulance Service</h5>
                 {
                     this.state.ambulance.map((item) => {
                         return (
                             <Card key={item.id} className="card">
                                 <CardContent>
-                                    <Typography color="textSecondary" gutterButtom>UserName  :  {item.userName}</Typography>
+                                    <Typography color="textSecondary" gutterButtom>Name  :  {item.Name}</Typography>
                                     <Typography color="textSecondary" gutterButtom>Email  :  {item.email}</Typography>
                                     <Typography color="textSecondary" gutterButtom>PhoneNumber  :  {item.phoneNumber}</Typography>
                                     <Typography color="textSecondary" gutterButtom>Address  :  {item.address}</Typography>
@@ -50,4 +50,4 @@ class Alist extends React.Component {
         )
     }
 };
-export default Alist;
+export default AmbulanceHomePage;

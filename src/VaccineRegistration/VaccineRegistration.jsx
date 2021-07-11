@@ -45,7 +45,7 @@ export default class VaccineRegistration extends Component {
                     </Col>
                 </Row>
                 <Row className={styles.row}>
-                    <Col md={{ offset: 2, span: 11 }}>
+                    <Col md={{ offset: 1, span: 11 }}>
                         <Card>
                             <Card.Body>
                                 <Card.Title className={styles.cardTitle}>How to register for vaccine in Co-Win</Card.Title>
