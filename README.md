@@ -87,42 +87,43 @@ It also provide information about nearby test centres, vaccination centres, and 
 
 2.	Software files
 
-	Visual studio code :  https://code.visualstudio.com/download
+	Visual studio code :  https://code.visualstudio.com/download
 
-	Nodejs : https://nodejs.org/en/download/
+	Nodejs : https://nodejs.org/en/download/
 
-	create react app : https://reactjs.org/docs/create-a-new-react-app.html
+	create react app : https://reactjs.org/docs/create-a-new-react-app.html
 
-	install git : https://git-scm.com/download/win
+	install git : https://git-scm.com/download/win
 
 
-	npm create-react-app covid19-management-system : open command prompt and type the command. This will create a folder named covid19-management-system and install all the require files in it.
+	npm create-react-app covid19-management-system : open command prompt and type the command. This will create a folder named covid19-management-system and install all the require files in it.
  
 
-	npm start : Runs the app in the development mode.
+	npm start : Runs the app in the development mode.
 Open [http://localhost:3000] to view it in the browser.
 
 
-	npm run server –port 500 : to start server.
+	npm run server –port 500 : to start server.
 
 
 3.	Project files
 
-public folder : contains images and videos that are used by the components.
+ public folder : contains images and videos that are used by the components.
  
-src folder : contains all the source code files. 
+ src folder : contains all the source code files. 
 
-api folder : have index.js file contain methods to fetch data from api 
+ api folder : have index.js file contain methods to fetch data from api 
 
-components folder : contains reusable components.
+ components folder : contains reusable components.
 
-data folder : container all data json files used by components.
+ data folder : container all data json files used by components.
 
  
 4.	Project execution steps 
 
 npm start : Runs the app in the development mode.
 Open [http://localhost:3000] to view it in the browser.
+npm run server : To start the server
 
 
 5.	GitHub link to project
